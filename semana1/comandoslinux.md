@@ -13,4 +13,5 @@
 ```bash
 alias listar="ls -l"
 alias escritorio="cd /mnt/c/Users/ASUS/OneDrive/Escritorio"
+alias c='clear'
 ```
